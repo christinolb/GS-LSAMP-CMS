@@ -12,7 +12,10 @@ Website for managing content on Rutgers Newark GS-LSAMP Website.
 
 ![Student Resources](https://github.com/christinolb/GS-LSAMP-CMS/assets/49823328/b1c8210f-fe07-41e8-9ab0-33e84a387408)
 
-![Events   Opportunities](https://github.com/christinolb/GS-LSAMP-CMS/assets/49823328/10ae25f3-fe24-4341-8f70-9b9378fc924e)
+![Events   Opportunities (2)](https://github.com/christinolb/GS-LSAMP-CMS/assets/49823328/a7791357-2e9a-42f1-9609-cd08275329c2)
+
+![Events   Opportunities (1)](https://github.com/christinolb/GS-LSAMP-CMS/assets/49823328/3bdefefc-fbda-4474-8674-6e134445ad05)
+
 
 
 
