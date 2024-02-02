@@ -3,6 +3,7 @@ Website for managing content on Rutgers Newark GS-LSAMP Website.
 
 ## Frontend Development
 ### High Fidelity Wireframes
+**Note** The forms are currently still being developed so their spots are empty.
 ![Login](https://github.com/christinolb/GS-LSAMP-CMS/assets/49823328/568526a5-b829-4526-a091-6c42c7cfa2cb)
 
 ![Home](https://github.com/christinolb/GS-LSAMP-CMS/assets/49823328/7fd061f5-dd7d-4bc9-9db8-9dfd58173a8a)
