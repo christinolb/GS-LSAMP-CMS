@@ -1,0 +1,12 @@
+.text-input label{
+    display: block;
+}
+
+.text-input input[type="text"] {
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: inset 1px 3px 4px rgba(0, 0, 0, 0.2);
+    width: 15rem;
+    height: 2.4rem;
+
+}
